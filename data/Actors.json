@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"Onyx combat","characterIndex":0,"characterName":"onyx marche","classId":5,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"visage onyx","traits":[],"initialLevel":1,"maxLevel":99,"name":"Onyx","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"Onyx combat","characterIndex":0,"characterName":"onyx marche","classId":5,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"visage onyx","traits":[],"initialLevel":1,"maxLevel":99,"name":"Onyx","nickname":"","note":"<actor:1>\n","profile":""},
 {"id":2,"battlerName":"Jordan combat","characterIndex":0,"characterName":"Jordan marche","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Jordan visage","traits":[],"initialLevel":20,"maxLevel":99,"name":"Paul Doléantos","nickname":"Le Chauve","note":"Doléantos est la famille dominante de la ville","profile":"Frappe avec sa tête; grand frère de Jordan"},
 {"id":3,"battlerName":"Erika combattante","characterIndex":0,"characterName":"femme gentille marche","classId":4,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"Erika visage","traits":[],"initialLevel":20,"maxLevel":99,"name":"Erika","nickname":"La Voisine","note":"Crush du héro","profile":""},
 {"id":4,"battlerName":"paul combat","characterIndex":0,"characterName":"Paul marche","classId":2,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"paul visage","traits":[],"initialLevel":18,"maxLevel":99,"name":" Jordan Doléantos","nickname":"Queue de Cheval","note":"Doléantos est la famille dominante de la ville","profile":"Le petit Frère"},
